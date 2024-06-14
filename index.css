@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desigualdade Social</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <h1>Desigualdade Social</h1>
+        <nav>    
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#estatisticas">Estatísticas</a></li>
+                <li><a href="#historias">Histórias</a></li>
+                <li><a href="#solucoes">Soluções</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <img src="https://static.historiadomundo.com.br/2019/07/desigualdade-social.jpg" alt="width: 500px;">
+        
+    <!-- Conteúdo principal -->
+    <main>
+        <!-- Seção: Sobre a Desigualdade Social -->
+        <section id="sobre">
+            <h2>Sobre a Desigualdade Social</h2>
+            <p>**Desigualdade social** é a diferença existente entre diferentes classes sociais</p>
+            <!-- Inclua mais conteúdo conforme necessário -->
+        </section>
+
+        <!-- Seção: Estatísticas e Dados -->
+        <section id="estatisticas">
+            <h2>Estatísticas e Dados</h2>
+            <p>Apresente dados e estatísticas relevantes sobre desigualdade social.</p>
+            <!-- Inclua mais conteúdo conforme necessário -->
+        </section>
+
+        <!-- Seção: Desigualdade Social no Brasil -->
+        <section id="Deaigualdade ">
+            <h2>Desigualdade Social no Brasil</h2>
+            <p>Compartilhe histórias reais de pessoas afetadas pela desigualdade social e depoimentos de indivíduos ou organizações envolvidas na causa.</p>
+            <!-- Inclua mais conteúdo conforme necessário -->
+        </section>
+
+        <!-- Seção: Soluções e Envolvimento -->
+        <section id="solucoes">
+            <h2>Soluções e Envolvimento</h2>
+            <p>Destaque maneiras pelas quais as pessoas podem ajudar a combater a desigualdade social e forneça recursos úteis.</p>
+            <!-- Inclua mais conteúdo conforme necessário -->
+        </section>
+
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2024 Desigualdade Social. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html
